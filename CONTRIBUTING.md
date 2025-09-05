@@ -7,7 +7,7 @@ Thank you for your interest in contributing to Collaborative Kaizen! We apprecia
 2. Create your feature branch (`git checkout -b feature/YourFeature`).
 3. Commit your changes with a meaningful message (`git commit -m 'Add some feature'`).
 4. Push the branch to your fork (`git push origin feature/YourFeature`).
-5. Open a pull request to the main repository.
+5. Open a pull request to the main repository using the format `feature/YourFeature`.
 
 ## Code of Conduct
 Please adhere to this project's [Code of Conduct](CODE_OF_CONDUCT.md).
