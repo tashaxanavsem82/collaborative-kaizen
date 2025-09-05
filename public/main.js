@@ -1,0 +1,1 @@
+document.getElementById('app').innerHTML = '<h2>Your ideas matter! Start improving today.</h2>';
