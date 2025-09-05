@@ -7,7 +7,7 @@ app.use(cors());
 app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
-  res.send('Welcome to Collaborative Kaizen API!');
+  res.send('Welcome to the Collaborative Kaizen API - your platform for continuous improvement!');
 });
 
 app.get('/health', (req, res) => {
