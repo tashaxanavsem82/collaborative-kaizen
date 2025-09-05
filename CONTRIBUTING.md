@@ -13,4 +13,4 @@ Thank you for your interest in contributing to Collaborative Kaizen! We apprecia
 Please adhere to this project's [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Issue Tracking
-For reporting issues or requesting features, please use the GitHub issues tracker.
+For reporting issues or requesting features, please use the GitHub issues tracker. Consider using our issue templates for a more streamlined process.
